@@ -1,1 +1,1 @@
-
+In this work, I used Python to analyze the ImdB dataset and answer important questions related to it by performing EDA.
