@@ -1,0 +1,1 @@
+In this work, I used Linear Regression algorithm to model the count of rentals of a bike rental company to help it make decisions regarding what is to be done to improve its bike rental rate, so that it may improve its sales.
