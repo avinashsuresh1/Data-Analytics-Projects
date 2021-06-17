@@ -1,1 +1,0 @@
-In this work, I used a bank dataset to determine which customers were likely to default on loan. I didn't use any ML algorithms here, but insights were gained using exploratory data analysis. In the end, recommendations were made to the business(bank), as to which customers were better when it comes to giving loan. as to 
